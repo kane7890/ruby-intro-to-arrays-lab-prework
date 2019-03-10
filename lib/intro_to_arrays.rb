@@ -24,8 +24,11 @@ def first_element_with_array_methods(ary)
   return (ary.first)
 end
 
+
 def last_element_with_array_methods(ary)
   return (ary.last)
 end
 
-
+def last_element(ary)
+  return(ary.size)
+end
