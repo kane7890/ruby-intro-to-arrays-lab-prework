@@ -8,9 +8,9 @@ def array_with_two_elements
 end
 
 def first_element(ary)
-  return(ary[1])
+  return(ary[0])
 end
 def third_element(ary)
-  return(ary[3])
+  return(ary[2])
 end
 
