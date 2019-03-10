@@ -20,3 +20,8 @@ def last_element(ary)
   return(ary[lastnum])
 end
 
+def first_element_with_array_methods(ary)
+  return (ary.first)
+end
+
+def 
