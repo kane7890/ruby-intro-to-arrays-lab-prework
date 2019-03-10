@@ -29,6 +29,6 @@ def last_element_with_array_methods(ary)
   return (ary.last)
 end
 
-def last_element(ary)
+def length_of_array(ary)
   return(ary.size)
 end
