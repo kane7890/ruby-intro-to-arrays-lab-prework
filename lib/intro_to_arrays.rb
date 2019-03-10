@@ -25,3 +25,6 @@ def first_element_with_array_methods(ary)
 end
 
 def last_element_with_array_methods(ary)
+  return (ary.last)
+end
+
