@@ -10,7 +10,13 @@ end
 def first_element(ary)
   return(ary[0])
 end
+
 def third_element(ary)
   return(ary[2])
+end
+
+def last_element(ary)
+  lastnum=ary.size - 1 
+  return(ary[lastnum])
 end
 
